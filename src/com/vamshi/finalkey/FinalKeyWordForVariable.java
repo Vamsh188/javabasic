@@ -6,7 +6,7 @@ public class FinalKeyWordForVariable {
         System.out.println(k);
         // int k = 30; //if we give final key word in front of int variable it cannot be re - assign the value
 
-        // System.out.println(k);
+        // System.out.println(k);//
 
     }
 }
