@@ -10,7 +10,7 @@ public class VariablesDemo {
 
     public void add () {
         int e = 25; // local variable
-        int t = 26; // local variable
+        int t = 26; // local variable//
         int u = e+t;
         System.out.println(u);
     }
