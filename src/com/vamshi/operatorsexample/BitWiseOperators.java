@@ -1,4 +1,5 @@
 package com.vamshi.operatorsexample;
 
-public class ArExample {
+public class BitWiseOperators {
+
 }
