@@ -8,7 +8,7 @@ public class logicaloperators {
 //        if (!isSunny);
 //        System.out.println("please don't play in outside");
 
-//        int score = 80;
+//        int score = 80;//
 //        boolean isSunny = false;
 //
         if (score > 92 || isSunny) {
