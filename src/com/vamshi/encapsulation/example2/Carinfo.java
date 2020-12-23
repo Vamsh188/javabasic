@@ -2,6 +2,11 @@ package com.vamshi.encapsulation.example2;
 
 public class Carinfo {
 
+    private String Brandname;
+    private float millage;
+    private String model;
+    private long price;
+
     public String getBrandname()
     {
         return Brandname;
@@ -34,11 +39,4 @@ public class Carinfo {
     public void setPrice(long price) {
         this.price = price;
     }
-
-    private String Brandname;
-    private float millage;
-    private String model;
-    private long price;
-
-
 }

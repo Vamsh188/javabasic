@@ -6,6 +6,7 @@ import java.util.List;
 public class AssociationExample {
     static class CityClass {
 
+
         private String cityName;
 
         public String getCityName() {
