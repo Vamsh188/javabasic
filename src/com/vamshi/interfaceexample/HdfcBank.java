@@ -1,6 +1,6 @@
 package com.vamshi.interfaceexample;
 
-public class HdfcBank {
+public class HdfcBank implements Banks {
 
     public void deposit() {
         System.out.println("Hdfc -  Deposit 25 lks");

@@ -9,6 +9,7 @@ public class Test2 {
         System.out.println("Mobile network " + mobileInfo.getNetwork());
         System.out.println("mobile number  " + mobileInfo.getPhonenumber());
         System.out.println("mobile price " + mobileInfo.getPrice());
+
     }
 
 }
