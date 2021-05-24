@@ -13,7 +13,7 @@ public class VariablesDemo {
         int u = e+t;
         System.out.println(u);
     }
-
+//
 
     public static void main(String[] args) {
         VariablesDemo vd = new VariablesDemo ();
