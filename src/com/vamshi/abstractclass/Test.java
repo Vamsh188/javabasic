@@ -16,7 +16,6 @@ public class Test {
         iciciBank.interest();
         iciciBank.deposit();
         iciciBank.withdraw();
-
         hdfcBank.loan();
         hdfcBank.interest();
         hdfcBank.deposit();
